@@ -1,7 +1,7 @@
 <div align="center">
 </div> 
 
-<h1 align="center"> 🔧 Skills & Tools: </h1>
+<h2 align="center"> 🔧 Skills & Tools: </h2>
 
 <p align="center">
   <a href="https://www.oracle.com/java/">
@@ -31,24 +31,21 @@
 
 
   <br>
-    <a href="https://reactjs.org/">
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
-      <a href="https://reactnative.dev/">
+  <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
-   <a href="https://react-redux.js.org/">
+  <a href="https://react-redux.js.org/">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a>
   
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   </a>
-      <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
   
-   <a href="https://fastapi.tiangolo.com/">
+  <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white">
   </a>
   <a href="https://jupyter.org/">
@@ -78,7 +75,7 @@
 
 </p>
 
-<h1 align="center"> 🤝 Social Media: </h1>
+<h2 align="center"> 🤝 Social Media: </h2>
   <p align="center">
 
   <a href="https://yaylymov.com/">
@@ -88,7 +85,7 @@
     <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logoColor=white">
   </a>
   </p>
-</h1>
+</h2>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
