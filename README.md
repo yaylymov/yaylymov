@@ -57,8 +57,12 @@
   </a>
   <br>
 
-  <a href="https://azure.microsoft.com/">
+  <a href="https://azure.microsoft.com">
     <img src="https://img.shields.io/badge/azure-104581?style=for-the-badge&logo=azure&logoColor=white">
+  </a>
+  
+  <a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   </a>
 
   <a href="https://www.postgresql.org/">
